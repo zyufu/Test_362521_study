@@ -1,4 +1,3 @@
-
 public class Test123 {
 
 	/**
@@ -6,8 +5,10 @@ public class Test123 {
 	 */
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
-
+		System.out.println("ok");
 	}
 
-	void ok(){}
+	void ok() {
+		System.out.println("ok");
+	}
 }
