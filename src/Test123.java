@@ -1,4 +1,3 @@
-
 public class Test123 {
 
 	/**
@@ -9,5 +8,6 @@ public class Test123 {
 
 	}
 
-	void ok(){}
+	void ok() {
+	}
 }
