@@ -1,4 +1,3 @@
-
 public class Test123 {
 
 	/**
@@ -9,4 +8,6 @@ public class Test123 {
 		System.out.println("");
 	}
 
+	void ok() {
+	}
 }
