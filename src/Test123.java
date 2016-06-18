@@ -9,5 +9,6 @@ public class Test123 {
 	}
 
 	void ok() {
+		System.out.println();
 	}
 }
